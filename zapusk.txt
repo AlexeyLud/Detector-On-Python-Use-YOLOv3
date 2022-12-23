@@ -1,0 +1,2 @@
+python yolo.py --image images/city.jpg --yolo yolo-coco
+python yolo-video.py --input video/Dog.mp4 --output output/Dog.avi --yolo yolo-coco
